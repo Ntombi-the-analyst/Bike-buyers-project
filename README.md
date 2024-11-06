@@ -1,6 +1,6 @@
-Dataset from Youtube
+Dataset from Youtube.
 This project will demostrates my analytical skills in customer segmentation, trend analysis, and dashboard creation, emphasizing my ability to translate complex data into actionable insights for business decisions.
-Project Title: Bike Buyers Analysis
+Project Title: Bike Buyers Analysis.
 
 Overview:
 The "Bike Buyers Analysis" project focuses on identifying patterns and factors influencing bike purchases among customers. By leveraging data analysis and visualization, this project helps in understanding customer segments, purchasing behavior, and demographic characteristics, supporting strategic decisions on customer targeting and product offerings.
